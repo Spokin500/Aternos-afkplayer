@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-aternos-bot",
+  "version": "1.0.0",
+  "description": "Aternos Minecraft Bot - AuthMe + Resource Pack Redder",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.20.0"
+  }
+}
